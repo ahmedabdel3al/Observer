@@ -1,0 +1,17 @@
+{
+    "name": "code95/observer",
+    "authors": [
+        {
+            "name": "Ahmed Abdelaal",
+            "email": "ahmed.moustafa@code95.info"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper":"^3.3"
+    },
+    "autoload":{
+        "psr-4":{
+            "App\\":"app"
+        }
+    }
+}
